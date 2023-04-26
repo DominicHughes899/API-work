@@ -54,11 +54,6 @@ def generate_graph(data, ranges, date):
 
     plt.show()
 
-def hello_world():
-    print("Hello World")
-    return ("Hello World")
-
-
 
 def main():
     

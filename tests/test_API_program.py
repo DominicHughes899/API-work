@@ -13,28 +13,3 @@ def test_analyse_func():
 
     assert success
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
